@@ -33,6 +33,6 @@ console.log("El autor es: ",autor)*/
 const dbz:String[]=["Goku","vegeta","trunks"]
 const [p1,p2,p3] =dbz;
 //cosnt [, , p3]=dbz //para destructurar 1 solo
-console.log('personaje',p1)
-console.log('personaje',p2)
-console.log('personaje',p3)
+//console.log('personaje',p1)
+//console.log('personaje',p2)
+//console.log('personaje',p3)
